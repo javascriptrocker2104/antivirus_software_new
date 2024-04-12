@@ -1,0 +1,4 @@
+﻿  Svs.cpp
+C:\Users\Анна\Downloads\antivirus\Svs.cpp(159,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Анна\Downloads\antivirus\Svs.cpp(149,25): warning C4101: processInfo: неиспользованная локальная переменная
+  antivirus.vcxproj -> C:\Users\Анна\Downloads\antivirus\x64\Debug\antivirus.exe
